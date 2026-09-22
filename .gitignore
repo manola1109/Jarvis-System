@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+logs/
+speech.mp3
+build/
+dist/
+*.spec
+.env
